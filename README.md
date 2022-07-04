@@ -4,7 +4,7 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman
 - 😏 Familiar with HTML & CSS, C, SQL and Python
-- 📚 My favourite game is 'How many chapters I can read in one night' 
+- 📚 My favourite game is 'How many chapters I can read in one night'(I loveee books!)
 - 🎨 I love creating
 
 ![](https://komarev.com/ghpvc/?username=Avanthu123)
